@@ -1,0 +1,35 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.happiness {
+    color: green;
+    font-size: 20px;
+}
+
+.onekylo {
+    border: 10px groove blue;
+}
+
+.twokylo {
+    border: 20px groove orange;
+}
+
+.threekylo {
+    border: 30px groove red;
+    border-radius: 100%;
+}
+
+.fourkylo {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
