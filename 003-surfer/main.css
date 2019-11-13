@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+
+.greenpage {
+    width: 60%;
+    background-color: green;
+    margin: 0 auto;
+    border: 10px black groove;
+}
+
+img {
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    border: 20px yellow groove;
+
+}
+
+h1  {
+    color: blue;
+}
+
+h2 {
+    color: red;
+}
